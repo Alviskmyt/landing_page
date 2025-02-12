@@ -70,3 +70,36 @@ button{
     font-size: 18px;
     font-weight: bold;
 }
+
+.second{
+    text-align: center;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 600px 40px;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.info-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+    padding: 0px 600px 100px;
+    align-items: center;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: #ffffff;
+    outline-style: solid;
+    outline-color: #3882f6;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
